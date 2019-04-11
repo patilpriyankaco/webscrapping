@@ -1,0 +1,30 @@
+status_fields = ['URLs','Device',
+    "Avoid an excessive DOM size",
+    "Serve static assets with an efficient cache policy",
+    "Minimize main-thread work",
+    "Reduce JavaScript execution time",
+    "Eliminate render-blocking resources",
+    "Properly size images",
+    "Defer offscreen images",
+    "Minify CSS",
+    "Minify JavaScript",
+    "Defer unused CSS",
+    "Efficiently encode images",
+    "Serve images in next-gen formats",
+    "Enable text compression",
+    "Preconnect to required origins",
+    "Server response times are low (TTFB)",
+    "Avoid multiple page redirects",
+    "Preload key requests",
+    "Use video formats for animated content",
+    "Avoids enormous network payloads",
+    "User Timing marks and measures",
+    "All text remains visible during webfont loads",
+    "Minimizes main-thread work",
+    "JavaScript execution time",
+    "Reduce server response times (TTFB)",
+    "Ensure text remains visible during webfont load"
+]
+value_fields = [
+    "Minimize Critical Requests Depth"
+]
